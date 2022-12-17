@@ -1,14 +1,19 @@
 body {
-    background-color: lightgrey;
+    background-color: #6C7A89 ;
 }
 
+p {
+    color: #E0E7E9;
+    font-size: large;
+}
 
 .b1 {
     font-size: 30px;
     color: rgb(0, 0, 0);
-    background-color: rgb(38, 252, 234);
+    background-color: rgb(109, 172, 255);
     border-radius: 20px;
-    transition-duration: 0,5s;
+    transition-duration: 0.5s;
+    border: 5px solid #5783db;
 }
 
 .b1container {
@@ -16,7 +21,23 @@ body {
 }
 
 .b1:hover {
-    background-color: rgb(85, 7, 85);
+    background-color: #55c2da;
     color: white;
 }
 
+.box {
+    width: 300px;
+    height: 220px;
+    text-align: center;
+    margin: auto;
+    border: 3px solid rgb(32, 124, 185);
+    border-radius: 10px;
+    transition-duration: 0.5s;
+    background-color: #48b4af;
+}
+
+.box:hover{
+    width: 400px;
+    height: 300px;
+    background-color: #6c9fd6 ;
+}
