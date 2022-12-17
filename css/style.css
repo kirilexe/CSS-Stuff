@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey;
+}
+
+
+.b1 {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(38, 252, 234);
+    border-radius: 20px;
+    transition-duration: 0,5s;
+}
+
+.b1container {
+    text-align: center;
+}
+
+.b1:hover {
+    background-color: rgb(85, 7, 85);
+    color: white;
+}
+
