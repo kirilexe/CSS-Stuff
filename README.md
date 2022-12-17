@@ -1,3 +1,3 @@
 # CSS-Stuff
 
-Random stuff I made using CSS
+Hi. I'm studying CSS and I'm trying random stuff to see if it works.
